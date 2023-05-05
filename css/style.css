@@ -21,6 +21,9 @@ header {
   color: #fff;
   min-height: 100vh;
   display: flex;
+  background-image: url('/Users/joelgujjarlamudi/Documents/GitHub/OurDart.github.io/punpun.jpeg');
+  background-size: cover;
+  background-position: center center;
 }
 
 main {
